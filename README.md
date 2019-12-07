@@ -35,7 +35,7 @@ https://github.com/YujiOnishi/dictionary_hands_on_hinagata
 
 ## screen shot
 
-![ss1](https://github.com/YujiOnishi/dictionary_hands_on/blob/master/ss1.jpg)
+![ss1](https://github.com/YujiOnishi/dictionary_hands_on/blob/master/ss1.jpg alt="ss1" style="zoom:25%;")
 
 ![ss2](https://github.com/YujiOnishi/dictionary_hands_on/blob/master/ss2.jpg)
 
